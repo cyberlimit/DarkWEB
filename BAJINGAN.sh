@@ -20,13 +20,13 @@ echo $red
 cat asw.txt
 echo ""
 echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
-echo "\033[32;1mAuthor : Mr.B4J1N64N"
-echo "\033[37;1mFeat: Mr.IM81"
+echo "\033[32;1mAuthor : CyberLimit"
+echo "\033[37;1mFeat: Mr.panjul"
 echo "\033[35;1mversion Tools: 6"
 echo "\033[35;1mTeam : DARKNESS CYBER TEAM"
-echo "\033[33;1mKontak Me :  083108271123"
-echo "\033[31;1mPlease For Subcribe Youtube:"
-echo "\033[92mDarkness Cyber Team" 
+echo "\033[33;1mKontak Me :  089614686780"
+echo "\033[31;1mPlease For Subcribe Youtube:Cyber Limit"
+echo "\033[92mDarkness Cyber Limit" 
 echo "\033[36;1mIndonesia Security Lite"
 echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
 echo ""
@@ -436,12 +436,12 @@ echo "[===============================================]>"
 echo $yellow "0.> keluar"
 echo "[+]===============================================[+]"
 echo "\033[32;1m"
-read -p "root@T00Ls-B4J1N64Nv6~#" bro
+read -p "root@T00Ls-Cyber Limit~#" bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Limit" | lolcat
 php tp.php
 fi
 
@@ -449,13 +449,13 @@ if
 [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Limit"
 php t.php
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
 then
-figlet "Mr.B4J1N64N"
+figlet "Limit"
 php mataharimall.php
 fi
 
